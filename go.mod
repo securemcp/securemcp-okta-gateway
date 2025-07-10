@@ -3,13 +3,13 @@ module github.com/securemcp/securemcp-okta-gateway
 go 1.24.3
 
 require (
-	github.com/goccy/go-yaml v1.17.1
-	github.com/redis/go-redis/v9 v9.8.0
+	github.com/goccy/go-yaml v1.18.0
+	github.com/redis/go-redis/v9 v9.11.0
 )
 
 require (
-	github.com/go-jose/go-jose/v4 v4.0.5 // indirect
-	golang.org/x/crypto v0.36.0 // indirect
+	github.com/go-jose/go-jose/v4 v4.1.1 // indirect
+	golang.org/x/crypto v0.39.0 // indirect
 )
 
 require (
